@@ -26,7 +26,7 @@
 <img align="left" alt="Postgresql" width="26px" src=https://w7.pngwing.com/pngs/582/361/png-transparent-postgre-sql-logo-postgresql-relational-database-management-system-object-relational-database-database-blue-text-logo-thumbnail.png/>
 <img align="left" alt="MySql" width="26px" src=https://cdn.freebiesupply.com/logos/thumbs/2x/mysql-logo.png/>
 <img align="left" alt="Jupyter" width="26px" src=https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/883px-Jupyter_logo.svg.png/>
-<img align="left" alt="Neo4j" width="26px" src=https://dist.neo4j.com/wp-content/uploads/neo4j_logo.png/>
+[<img align="left" alt="Neo4j" width="26px" src=https://dist.neo4j.com/wp-content/uploads/neo4j_logo.png/>]
 
 
 ---
