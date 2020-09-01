@@ -22,7 +22,8 @@
 <br />
 <br />
 
-<img align="left" alt="Github State" width="26px" src="https://github-readme-stats.jesufemi-o.vercel.app/api?username=Jesufemi-O&show_icons=true&hide_border=true"" />
+---
+<img align="left" alt="Github State" width="26px" src="https://github-readme-stats.jesufemi-o.vercel.app/api?username=Jesufemi-O&show_icons=true&hide_border=true" />
 
 
 ### connect with me :stuck_out_tongue_winking_eye:
