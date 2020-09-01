@@ -22,15 +22,13 @@
 <br />
 <br />
 
-<img align="left" alt="Github State" width="26px" src="https://github-readme-stats.jesufemi-o.vercel.app/api?username=Jesufemi-O&show_icons=true&hide_border=true" />
+<img align="left" alt="Github Status" width="26px" src="https://github-readme-stats.jesufemi-o.vercel.app/api?username=Jesufemi-O&show_icons=true&hide_border=true" />
 
 <br />
 ### connect with me :stuck_out_tongue_winking_eye:
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
 
 [twitter]: https://twitter.com/wondaboi6ix
 [instagram]: https://instagram.com/wondaboi6ix
