@@ -22,8 +22,10 @@
 <br />
 <br />
 
-### Github stats
+<details>
+  <summary>:zap: Github Stats</summary>
 <img align="left" alt="Github Status" width="26px" src="https://github-readme-stats.jesufemi-o.vercel.app/api?username=Jesufemi-O&show_icons=true&hide_border=true" />
+</details>
 
 <br />
 <br />
