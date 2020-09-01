@@ -25,6 +25,8 @@
 ### Github stats
 <img align="left" alt="Github Status" width="26px" src="https://github-readme-stats.jesufemi-o.vercel.app/api?username=Jesufemi-O&show_icons=true&hide_border=true" />
 
+<br />
+<br />
 
 ### connect with me :stuck_out_tongue_winking_eye:
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
