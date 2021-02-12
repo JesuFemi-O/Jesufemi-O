@@ -8,6 +8,8 @@
 
 - I am currently focused on exploring deep learning :rocket:
 
+- I have been doing software engineering professionally for about a year now :rocket:
+
 - I am currently learning about software design patterns in python :rocket:
 
 - My Long term goal is to become a full stack Data Scientist :fire: :fire:
