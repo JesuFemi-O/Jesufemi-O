@@ -1,6 +1,6 @@
 ### Hey there, My name is Jesufemi 👋
 
-## I'm Data Scientist interested in end-to-end Data Science projects!
+## I'm a Data Scientist interested in end-to-end Data Science projects!
 
 - I have a background in Computer Science :v:
 
