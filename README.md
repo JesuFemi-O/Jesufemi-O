@@ -1,18 +1,22 @@
 ### Hey there, My name is Jesufemi 👋
 
-## I'm a Data Scientist interested in end-to-end Data Science projects!
+## I'm a Data Engineer interested in enabling organizations to make actual data driven decisions!
 
 - I have a background in Computer Science :v:
 
+- I have 3+ years of experience working with Data in various capacities - Credit risk data scientist, Software Engineer (MLOPS), Data Engineer
+
 - I have 1 year+ work experience in doing data science for fintech :bank:
 
-- I am currently focused on exploring deep learning :rocket:
+- I have 1+ years experience doing software engineering professionally with a focus on building data centric products :rocket:
 
-- I have been doing software engineering professionally for about a year now :rocket:
+- I have ~1 year experience as a Data engineer with expeience in EdTech and E-commerce
 
 - I am currently learning about software design patterns in python :rocket:
 
-- My Long term goal is to become a full stack Data Scientist :fire: :fire:
+- I am currently exploring the modern data stack in a truly open source way :rocket:
+
+- My Long term goal is to become a full stack Data Engineer :fire: :fire:
 
 
 ### Languages, Frameworks and Tools
