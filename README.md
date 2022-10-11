@@ -4,13 +4,13 @@
 
 - I have a background in Computer Science :v:
 
-- I have 3+ years of experience working with Data in various capacities - Credit risk data scientist, Software Engineer (MLOPS), Data Engineer
+- I have 3+ years of experience working with Data in various capacities - Credit risk data scientist, Software Engineer (MLOPS), Data Engineer :v:
 
 - I have 1 year+ work experience in doing data science for fintech :bank:
 
 - I have 1+ years experience doing software engineering professionally with a focus on building data centric products :rocket:
 
-- I have ~1 year experience as a Data engineer with expeience in EdTech and E-commerce
+- I have ~1 year experience as a Data engineer with expeience in EdTech and E-commerce :rocket:
 
 - I am currently learning about software design patterns in python :rocket:
 
