@@ -4,7 +4,7 @@
 
 - I have a background in Computer Science :v:
 
-- I have 3+ years of experience working with Data in various capacities - Credit risk data scientist, Software Engineer (MLOPS), Data Engineer :v:
+- I have 5+ years of experience working with Data in various capacities - Credit risk data scientist, Software Engineer (MLOPS), Data Engineer :v:
 
 - I have 1 year+ work experience in doing data science for fintech :bank:
 
