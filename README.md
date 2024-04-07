@@ -10,7 +10,7 @@
 
 - I have 1+ years experience doing software engineering professionally with a focus on building data centric products :rocket:
 
-- I have 3 year experience as a Data engineer with expeience a variety of industries :rocket:
+- I have ~3 years experience as a Data engineer with expeience a variety of industries :rocket:
 
 - I am currently learning about software design patterns in python :rocket:
 
